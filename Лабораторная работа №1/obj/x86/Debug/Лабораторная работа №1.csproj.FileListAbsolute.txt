@@ -1,0 +1,12 @@
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.GlavnoeMenu.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.Properties.Resources.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.Zadanie2.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.Zadanie3.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.Zadanie4.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.Zadanie5.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная_работа__1.Zadanie6.resources
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная работа №1.csproj.GenerateResource.Cache
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\Лабораторная работа №1.exe
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\Лабораторная работа №1.pdb
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная работа №1.exe
+C:\Users\Вика\Documents\Visual Studio 2010\Projects\Лабораторная работа №1\Лабораторная работа №1\obj\x86\Debug\Лабораторная работа №1.pdb
